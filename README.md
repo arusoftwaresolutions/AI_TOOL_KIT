@@ -1,7 +1,6 @@
 # Mastering the AI Toolkit
 Course: AI Tools and Applications  
 Theme: "Mastering the AI Toolkit"  
-Group members: [Add group member names here]
 
 ---
 
